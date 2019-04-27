@@ -1,4 +1,4 @@
-﻿###Deploy to heroku
+###Deploy to heroku
 
 https://chat-reactapp.herokuapp.com/
 
